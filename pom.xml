@@ -54,7 +54,7 @@
 <!--        <module>lab-44</module>-->
 <!--        <module>lab-45</module>-->
 <!--        <module>lab-46</module>-->
-<!--        <module>lab-47</module>-->
+        <module>lab-47</module>
 <!--        <module>lab-48-hot-swap</module>-->
 <!--        <module>lab-49</module>-->
 <!--        <module>lab-50</module>-->
@@ -112,7 +112,7 @@
 <!--        <module>labx-28</module>-->
 <!--        <module>labx-29-spring-cloud-consul-bus</module>-->
 <!--        <module>labx-30-spring-cloud-grpc</module>-->
-        <module>lab-72-minio</module>
+<!--        <module>lab-72-minio</module>-->
     </modules>
 
 </project>
